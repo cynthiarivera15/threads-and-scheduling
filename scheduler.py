@@ -1,5 +1,4 @@
 # Cynthia Marie Rivera Sánchez
-# 801-19-5470
 # CCOM4017 - 002
 # Project 1
 
