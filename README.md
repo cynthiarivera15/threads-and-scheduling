@@ -9,8 +9,6 @@ Department of Computer Science
 
 Student Name: Cynthia Marie Rivera Sánchez
 
-Student Number: 801-19-5470
-
 Course & Section: CCOM4017-002
 
 ## Contents of this file
